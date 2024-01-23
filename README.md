@@ -9,3 +9,4 @@ Microsoft Excel
 Power BI 
 
 Using the tool Microsoft Excel I had filtered out some outliers and null data and made the data clean to get a proper analysis. And later using Power BI i created visuals and graphs representing the various outcomes from the data in the dashboard.
+![imdb](https://github.com/BRUTALXBONG/POWER_BI_Projects/assets/125906962/e227b72e-c47c-4982-8991-a794867232f1)
